@@ -11,7 +11,7 @@ numpy                     1.24.4
 pandas                    2.0.3
 scikit-learn              1.3.2
 tqdm                      4.67.1
-sciPy                     1.10.1
+scipy                     1.10.1
 ```
 
 ## Dataset
